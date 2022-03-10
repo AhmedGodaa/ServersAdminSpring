@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Collection;
 
 public interface ServerDao {
-//    should be serverDao
+// in this class we will define all methods that we are going to deal with
 
     Server create(Server server);
 
